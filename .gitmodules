@@ -1,7 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/coursekata/coursekata.r-universe.dev
 	branch = HEAD
+[submodule "ckspike"]
+	path = ckspike
+	url = https://github.com/coursekata/ckdata
+	subdir = r
 [submodule "coursekata"]
 	path = coursekata
 	url = https://github.com/coursekata/coursekata-r
