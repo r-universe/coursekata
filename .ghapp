@@ -1,0 +1,10 @@
+{
+  "id": 177325322,
+  "created_at": "2026-10-31T20:54:35.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["coursekata.r-universe.dev"]
+}
