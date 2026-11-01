@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["coursekata.r-universe.dev"]
+  "repositories": ["ckdata", "coursekata.r-universe.dev"]
 }
